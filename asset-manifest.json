@@ -1,0 +1,17 @@
+{
+  "files": {
+    "main.css": "/ah-frontend-sample/static/css/main.2cce8147.chunk.css",
+    "main.js": "/ah-frontend-sample/static/js/main.0ddf4e3c.chunk.js",
+    "main.js.map": "/ah-frontend-sample/static/js/main.0ddf4e3c.chunk.js.map",
+    "runtime~main.js": "/ah-frontend-sample/static/js/runtime~main.b82378bb.js",
+    "runtime~main.js.map": "/ah-frontend-sample/static/js/runtime~main.b82378bb.js.map",
+    "static/css/2.27172684.chunk.css": "/ah-frontend-sample/static/css/2.27172684.chunk.css",
+    "static/js/2.ccc297bc.chunk.js": "/ah-frontend-sample/static/js/2.ccc297bc.chunk.js",
+    "static/js/2.ccc297bc.chunk.js.map": "/ah-frontend-sample/static/js/2.ccc297bc.chunk.js.map",
+    "index.html": "/ah-frontend-sample/index.html",
+    "precache-manifest.20fe6fc2ae73303d8dceff221ad88c6d.js": "/ah-frontend-sample/precache-manifest.20fe6fc2ae73303d8dceff221ad88c6d.js",
+    "service-worker.js": "/ah-frontend-sample/service-worker.js",
+    "static/css/2.27172684.chunk.css.map": "/ah-frontend-sample/static/css/2.27172684.chunk.css.map",
+    "static/css/main.2cce8147.chunk.css.map": "/ah-frontend-sample/static/css/main.2cce8147.chunk.css.map"
+  }
+}
